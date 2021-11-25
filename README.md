@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @theodoreho8033
 - 📫 How to reach me theodoreho8003@gmail.com | www.linkedin.com/in/theodoreho8033
+- Link to style transfer personal project: https://colab.research.google.com/drive/1E9tIiVJM4Faxd18gdBjo-yvg7z2JTqsj?usp=sharing
+- Uploaded some sample school work from UCSC in School repository. 
 
-Uploaded some sample school work from UCSC in School repository. 
-
-Link to style transfer personal project: https://colab.research.google.com/drive/1E9tIiVJM4Faxd18gdBjo-yvg7z2JTqsj?usp=sharing
 
 <!---
 theodoreho8033/theodoreho8033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
