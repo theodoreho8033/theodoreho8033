@@ -4,7 +4,7 @@ I graduated highest-honors in the major from the University of California, Santa
 
 I also work part-time as a Data Engineer at Taulia a global supply chain financing company parented by SAP; a position I was offered after completing an internship with Taulia in the Summer of 2022. 
 
-This GitHub page is for me to share various projects I've conducted over the last few years.
+This GitHub page is for me to share various projects I've conducted over the last few years. Below are repos describing those projects. 
 
 For any questions please contact me at theodoreho8033@gmail.com, or https://www.linkedin.com/in/theodoreho8033/.
 
