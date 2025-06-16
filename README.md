@@ -1,6 +1,6 @@
 Hello! I'm Theodore Ho!
 
-I graduated highest-honors in the major from the University of California, Santa Cruz in June 2023 for a B.S. in Computer Science. In Fall of 2023, I began my Masters program at the University of Southern California for a M.S. in Computer Science with a specialization in artificial intelligence where I currently maintain a 3.6/4 GPA and expect to graduate in May 2025.
+I graduated highest-honors in the major from the University of California, Santa Cruz in June 2023 for a B.S. in Computer Science. In Fall of 2023, I began my Masters program at the University of Southern California for a M.S. in Computer Science with a specialization in artificial intelligence.
 
 While in school, I work part-time as a Data Engineer at Taulia a global supply chain financing company parented by SAP; a position I was offered after completing an internship with Taulia in the Summer of 2022.
 
