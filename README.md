@@ -1,17 +1,13 @@
-Hello! I'm Theodore Ho!
+Hi, I’m Theodore Ho 👋
 
-I graduated highest-honors in the major from the University of California, Santa Cruz in June 2023 for a B.S. in Computer Science. In Fall of 2023, I began my Masters program at the University of Southern California for a M.S. in Computer Science with a specialization in artificial intelligence.
+I recently completed my M.S. in Computer Science (AI specialization) at the University of Southern California, after graduating with Highest Honors from UC Santa Cruz with a B.S. in Computer Science.
 
-While in school, I work part-time as a Data Engineer at Taulia a global supply chain financing company parented by SAP; a position I was offered after completing an internship with Taulia in the Summer of 2022.
+While in school, I worked part-time as a Data Engineer at Taulia, a global supply chain financing company under SAP. I joined the team after a successful internship in 2022, and have since built data pipelines supporting payments, compliance, and risk operations.
 
-In my years of study and professional experience, I've seen first hand how data can drive business operations, provide new perspectives, and fuel artificial intelligence to tackle the world's most complicated problems. I plan to continue to develop my expertise in leveraging data and make a career out of it.
+I’m also the lead engineer behind [AIToolHub.co](https://aitoolhub.co), an AI-native platform for discovering tools through LLM-powered, agentic search. It autonomously crawls, interprets, and categorizes tools using prompt-driven workflows—turning unstructured data into semantically searchable insights used by thousands every week. LLMs are powerful, but only as effective as the context and orchestration around them. I believe prompt chaining, RAG, and agentic loops are essential to fully unlocking their potential—and AIToolHub is my way of testing those ideas at scale.
 
-Below you will find some of the projects I've conducted along the way. 
+Throughout my academic and professional journey, I’ve seen how data can drive operations, surface insight, and power intelligent systems. I’m passionate about building tools that make those capabilities accessible, fast, and intuitive—and I plan to build a career doing just that.
 
-For any questions please contact me at theodoreho8033@gmail.com, or https://www.linkedin.com/in/theodoreho8033/.
+Below, you’ll find a few of the projects I’ve built along the way.
 
-
-<!---
-theodoreho8033/theodoreho8033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to reach out: **theodoreho8033@gmail.com** | [LinkedIn](https://www.linkedin.com/in/theodoreho8033/)
