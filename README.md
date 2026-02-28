@@ -1,1 +1,1 @@
-: **theodoreho8033@gmail.com** | [LinkedIn](https://www.linkedin.com/in/theodoreho8033/)
+[LinkedIn](https://www.linkedin.com/in/theodoreho8033/)
